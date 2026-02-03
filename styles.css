@@ -23,6 +23,10 @@ img {
   height: auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 .header-upper {
     font-family: "Zalando Sans Expanded", sans-serif;
     font-weight: 500;
@@ -52,7 +56,7 @@ h4 {
   font-size: 16px;
 }
 
-.projekti-grid {
+#projekti-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 20px;

@@ -1,4 +1,4 @@
-const grid = document.getElementById("projektit-grid");
+const grid = document.getElementById("projekti-grid");
 
 fetch("./projects.json")
 .then(res => res.json())
@@ -8,7 +8,7 @@ fetch("./projects.json")
         tile.className = "projekti-tile";
 
         tile.innerHTML = `
-            <h3>${project.title}</h3>
+            <h3><a href="${project.link}">${project.title}</a></h3>
             <img src="${project.image}" alt="${project.title}">
             <p>${project.description}</p>
         `
