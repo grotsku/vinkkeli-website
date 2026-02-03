@@ -1,0 +1,15 @@
+<h2>Projektit</h2>
+        <div class="projekti-grid">
+            <div class="projekti-tile">
+                <div class="projekti-header"></div>
+                    <h3><a href="projektit/projekti-sivu.html">Projektin nimi</a></h3>
+                <div class="projekti-kuva"><img src="img/testi.jpg" alt=""></div>
+                <h4>Projektin kuvateksti</h4>
+            </div>
+            <div class="projekti-tile">
+                <div class="projekti-header"></div>
+                    <h3><a href="projektit/projekti-sivu.html">Projektin nimi</a></h3>
+                <div class="projekti-kuva"><img src="img/testi.jpg" alt=""></div>
+                <h4>Projektin kuvateksti</h4>
+            </div>
+        </div>

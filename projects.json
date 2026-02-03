@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Projekti 1",
+        "image": "img/testi.jpg",
+        "description": "Tekstiä projektista 1"
+    },
+    {
+        "title": "Projekti 2",
+        "image": "img/testi.jpg",
+        "description": "Tekstiä projektista 2"
+    }
+]
