@@ -1,0 +1,64 @@
+header {
+  max-width: 1000px;
+  margin: auto;
+}
+
+main {
+  max-width: 1000px;
+  margin: auto;
+}
+
+hr {
+  border: 1px solid lightgray;
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.header-upper {
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: 0.2rem;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;  
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 20px;
+}
+
+h4 {
+  color: gray;
+  font-family: "Noto Serif", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.projekti-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
+.projekti-tile {
+  display: flex;
+  flex-direction: column;
+}
