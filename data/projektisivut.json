@@ -1,9 +1,10 @@
 {
-  "projekti1": {
-    "title": "Projekti 1",
+  "songlines": {
+    "title": "Songlines",
     "year": "2025",
-    "contentLink": "../content/projekti1.md",
-    "images": ["testi.jpg", "testi.jpg"]
+    "venue": "Vapriikki",
+    "contentLink": "../content/songlinesTeksti.md",
+    "images": ["songlines1.jpg", "songlines2.jpg","songlines3.jpg", "songlines4.jpg"]
   },
   "godot-game": {
     "title": "Forest Troll Game",

@@ -1,6 +1,6 @@
 const grid = document.getElementById("projekti-grid");
 
-fetch("./projects.json")
+fetch("./data/etusivuProjektit.json")
 .then(res => res.json())
 .then(projects => {
     projects.forEach(project => {
