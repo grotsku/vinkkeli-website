@@ -1,16 +1,25 @@
+import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+
 const params = new URLSearchParams(window.location.search);
 const projectId = params.get("id");
+console.log(params);
+console.log(projectId);
 
+// projektisivut.json sisältää projektikohtaiset tiedot. projects.json sisältää kaikki projektit listana, jota käytetään index.html-sivulla.
 fetch("data/projektisivut.json")
   .then(res => res.json())
-  .then(projects => {
+  .then(async projects => {
     const project = projects[projectId];
     if (!project) return;
+    
+    const response = await fetch(project.contentLink);
+    const markdown = await response.text();
+    const mdContent = marked.parse(markdown);
 
     document.getElementById("page-title").textContent = project.title;
     document.getElementById("project-title").textContent = project.title;
     document.getElementById("project-year").textContent = project.year;
-    document.getElementById("project-description").textContent = project.description;
+    document.getElementById("project-description").innerHTML = mdContent;
 
     const imagesContainer = document.getElementById("project-images");
     project.images.forEach(src => {

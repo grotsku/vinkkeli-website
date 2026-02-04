@@ -1,14 +1,14 @@
 {
   "projekti1": {
-    "title": "Urban Voids",
+    "title": "Projekti 1",
     "year": "2025",
-    "description": "A sound art project documenting urban voids in Japan.",
+    "contentLink": "../content/projekti1.md",
     "images": ["testi.jpg", "testi.jpg"]
   },
   "godot-game": {
     "title": "Forest Troll Game",
     "year": "2024",
-    "description": "A 2D Godot game about collecting mushrooms.",
+    "contentLink": "A 2D Godot game about collecting mushrooms.",
     "images": ["game1.png"]
   }
 }

@@ -1,3 +1,4 @@
 # todo
 
-- muuta projektitietojen tuonti yaml-muotoon
+- projektien tekstiosuudet markdown-tiedostoiksi json-kentän sijaan.
+    - marked https://github.com/markedjs/marked
