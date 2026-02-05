@@ -1,21 +1,24 @@
 header {
   max-width: 1000px;
   margin: auto;
+  padding: 0px 25px;
 }
 
 main {
   max-width: 1000px;
   margin: auto;
+  padding: 0px 25px;
 }
 
 hr {
-  border: 1px solid lightgray;
+  border: 1px solid var(--grey1);
 }
 
 p {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 400;
+  color: var(--fg);
 }
 
 img {
@@ -23,7 +26,14 @@ img {
   height: auto;
 }
 
-a {
+a, a:visited {
+  text-decoration: none;
+  color: var(--blue);
+  transition: 0.2s;
+}
+
+a:hover {
+  color: var(--blue2);
   text-decoration: none;
 }
 
@@ -44,7 +54,7 @@ h2 {
 
 h3 {
   font-family: "Montserrat", sans-serif;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
   font-size: 20px;
 }
@@ -65,4 +75,12 @@ h4 {
 .projekti-tile {
   display: flex;
   flex-direction: column;
+}
+
+.projekti-tile > p {
+  font-family: "Noto Serif", serif;
+  font-weight: 400;
+  font-size: 14px;
+  font-style: italic;
+  color: var(--blue2); 
 }

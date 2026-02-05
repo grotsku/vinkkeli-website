@@ -1,8 +1,8 @@
 {
   "songlines": {
     "title": "Songlines",
-    "year": "2025",
-    "venue": "Vapriikki",
+    "year": "2024",
+    "venue": "Museokeskus Vapriikki",
     "contentLink": "../content/songlinesTeksti.md",
     "images": ["songlines1.jpg", "songlines2.jpg","songlines3.jpg", "songlines4.jpg"]
   },

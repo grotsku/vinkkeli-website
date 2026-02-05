@@ -1,3 +1,9 @@
-Näyttely sai alkunsa, kun kolme Australian keskiaavikon aboriginaalikansaa pyysi apua Australian kansallismuseolta kulttuurinsa elinvoiman säilyttämiseksi. Näiden kansojen vanhimmat toimivat näyttelyn kuraattoreina.
+Näyttelysuunnittelu toteutettu yhteistyössä **TAKT Oy:n** kanssa.
 
-Vapriikin laajan näyttelyn keskiössä on eri puolilla maailmaa tunnettu seitsemän sisaren tarina, joka on yksi Australian tunnetuimmista perimätiedon kertomuksista eli niin kutsutuista songline-laululinjoista. Aboriginaalien myyttisen uniajan laululinjatarinat ovat Australian mantereen syntykertomuksia. Ne muodostavat tarinoiden, tapojen ja tiedon verkoston halki laajan mantereen ja kertovat näin Australian historian aboriginaalien näkökulmasta. Laululinjat siis muodostavat eräänlaisen tarinan muotoon piirretyn kartan maastosta ja kertovat, miten uniajan esi-isät loivat kunkin pinnanmuodon, opettivat käyttämään kunkin alueen antimia ja antoivat yhteisöille käyttäytymissääntöjä. Sisarten tarina on yksi Australian tärkeimmistä laululinjoista, ja se kerrotaan näyttelyn teosten ja esineiden välityksellä. Samalla tutustutaan aboriginaalien jopa 60 000 vuotta vanhaan kulttuuriin, tapoihin ja perinteeseen.
+Songlines-näyttely käsitteli seitsemän sisaren tarinaa, joka on yksi Australian tunnetuimmista perimätiedon kertomuksista. Songline-laululinjojen tarinat muodostuvat muun muassa erilaisista maalatuista ja piirretyistä kartoista. Sisarten laululinjan tarina esiteltiin näyttelyssä teosten, esineiden, tekstin ja mediateosten avulla. Näyttely toteutettiin yhteistyössä Australian kansallismuseon kanssa. 
+
+Näyttely jakautui Vapriikin pääsaliin ja uuteen Kanava-saliin. Näyttelysuunnittelussa keskeistä oli luoda rauhallisia ja unenomaisia tiloja runsaan ja värikkään esineistön tueksi. Värit valikoitiin neutraaleiksi ja maanläheisiksi.
+
+**Graafinen suunnittelu:** Kaarina Marttila
+
+**Näyttelyrakentaminen ja valaistussuunnittelu:** Museokeskus Vapriikki
