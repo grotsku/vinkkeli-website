@@ -36,7 +36,12 @@ main > p {
     color: var(--fg);
 }
 
-a, a:visited {
+main > a, main > a:visited {
+    transition: 0.2s;
+    color: var(--blue);
+}
+
+header > a, header > a:visited {
     text-decoration: none;
     font-family: "Noto Serif", serif;
     font-size: 14px;
@@ -44,8 +49,12 @@ a, a:visited {
     color: var(--grey2);
 }
 
-a:hover {
-    color: var(--blue);
+main > a:hover {
+    color: var(--blue2);
+}
+
+header > a:hover {
+    color: var(--blue2);
 }
 
 h1 {

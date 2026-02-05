@@ -1,4 +1,4 @@
-Näyttelysuunnittelu toteutettu yhteistyössä **TAKT Oy:n** kanssa.
+Näyttelysuunnittelu toteutettu yhteistyössä [TAKT Oy:n](https://taktark.fi/) kanssa. 
 
 Songlines-näyttely käsitteli seitsemän sisaren tarinaa, joka on yksi Australian tunnetuimmista perimätiedon kertomuksista. Songline-laululinjojen tarinat muodostuvat muun muassa erilaisista maalatuista ja piirretyistä kartoista. Sisarten laululinjan tarina esiteltiin näyttelyssä teosten, esineiden, tekstin ja mediateosten avulla. Näyttely toteutettiin yhteistyössä Australian kansallismuseon kanssa. 
 
