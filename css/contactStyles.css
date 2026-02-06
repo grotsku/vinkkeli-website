@@ -1,0 +1,66 @@
+@import url(./sharedStyles.css);
+
+hr {
+    border: 1px solid var(--grey1);
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: var(--blue);
+  transition: 0.2s;
+}
+
+a:hover {
+  color: var(--blue2);
+  text-decoration: none;
+}
+
+h1 {
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 40px;
+    letter-spacing: 0.2rem;
+}
+
+p, li {
+    font-family: "Montserrat", sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    color: var(--fg);
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;  
+  font-weight: 500;
+  font-style: normal;
+  font-size: 24px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 20px;
+}
+
+h4 {
+  color: gray;
+  font-family: "Noto Serif", sans-serif;
+  font-weight: 300;
+  font-size: 16px;
+}
+
+.content {
+    max-width: 1000px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    padding: 25px 50px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+}
