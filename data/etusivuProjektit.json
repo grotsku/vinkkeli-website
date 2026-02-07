@@ -6,18 +6,21 @@
         "description": "Museokeskus Vapriikki, 2024"
     },
     {
-        "title": "Projekti 2",
+        "title": "Muinais-DNA",
+	"link": "projektit.html?id=muinaisdna",
         "image": "img/testi.jpg",
-        "description": "Tekstiä projektista 2"
+        "description": "Museokeskus Vapriikki, 2025-2028"
     },
     {
-        "title": "Projekti 3",
+        "title": "John Howen taidetta",
         "image": "img/testi.jpg",
-        "description": "Tekstiä projektista 3"
+	"link": "projektit.html?id=john-howe",
+        "description": "Tampere-talo, 2024"
     },
     {
-        "title": "Projekti 4",
+        "title": "Hannon aseman uudistus",
         "image": "img/testi.jpg",
-        "description": "Tekstiä projektista 4"
+	"link": "projektit.html?id=hanno",
+        "description": "Hanno, Japani, 201x-"
     }
 ]

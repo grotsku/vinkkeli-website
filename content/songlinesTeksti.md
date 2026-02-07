@@ -6,4 +6,4 @@ Näyttely jakautui Vapriikin pääsaliin ja uuteen Kanava-saliin. Näyttelysuunn
 
 **Graafinen suunnittelu:** Kaarina Marttila
 
-**Näyttelyrakentaminen ja valaistussuunnittelu:** Museokeskus Vapriikki
+**Näyttelyrakentaminen ja valaistussuunnittelu:** [Museokeskus Vapriikki](www.vapriikki.fi)

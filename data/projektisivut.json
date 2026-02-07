@@ -6,11 +6,19 @@
     "contentLink": "../content/songlinesTeksti.md",
     "images": ["songlines1.jpg", "songlines2.jpg","songlines3.jpg", "songlines4.jpg"]
   },
-  "godot-game": {
-    "title": "Forest Troll Game",
+  "muinaisdna": {
+    "title": "Muinais-DNA",
+    "year": "2025-2028",
+    "venue": "Museokeskus Vapriikki",
+    "contentLink": "../content/dnaTeksti.md",
+    "images": ["dna1.webm"]
+  },
+  "john-howe": {
+    "title": "John Howen taidetta",
     "year": "2024",
-    "contentLink": "A 2D Godot game about collecting mushrooms.",
-    "images": ["game1.png"]
+    "venue": "Tampere-talo",
+    "contentLink": "../content/howeTeksti.md",
+    "images": ["dna1.webm"]
   }
 }
 
