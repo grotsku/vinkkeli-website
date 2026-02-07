@@ -18,7 +18,14 @@
     "year": "2024",
     "venue": "Tampere-talo",
     "contentLink": "../content/howeTeksti.md",
-    "images": ["dna1.webm"]
+    "images": ["johnhowe1.webm"]
+  },
+  "aboa-vetus": {
+    "title": "Aboa Vetuksen perusnäyttelyn uudistus",
+    "year": "202x-",
+    "venue": "Aboa Vetus",
+    "contentLink": "../content/aboavetusTeksti.md",
+    "images": ["aboavetus.webm"]
   }
 }
 

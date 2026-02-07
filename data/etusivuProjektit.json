@@ -18,6 +18,12 @@
         "description": "Tampere-talo, 2024"
     },
     {
+        "title": "Aboa Vetuksen perusnäyttelyn uudistus",
+        "image": "img/testi.jpg",
+	"link": "projektit.html?id=aboa-vetus",
+        "description": "Aboa Vetus, 202x"
+    },
+    {
         "title": "Hannon aseman uudistus",
         "image": "img/testi.jpg",
 	"link": "projektit.html?id=hanno",

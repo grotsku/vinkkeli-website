@@ -5,5 +5,7 @@ Tampere-talon kesänäyttelyssä nähtiin John Howen kuvataidetta pitkin taiteil
 Näyttely koostui pääasiassa taiteilijan piirustus- ja maalauskokoelmasta. Teoksia näyttelyyn kuratoitiin yli 250 kappaletta. Näyttelysuunnitelmassa teokset jaettiin omiin kategorioihinsa, joka toteutui kampamaisena rakenteena sekä puurankaisina keskielementteinä, joihin pingotettiin kangaspohjaisia suurtulosteita. 
 
 **Kuratointi ja esinelainat:** Museum Art Ludique
+
 **Graafinen suunnittelu:**
+
 **Näyttelyrakentaminen ja valaistussuunnittelu:** Tampere-talo
