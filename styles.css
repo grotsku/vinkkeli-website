@@ -1,3 +1,9 @@
+@import url(./css/sharedStyles.css);
+
+body {
+  background-color: var(--cp-bg-pane);
+}
+
 header {
   max-width: 1000px;
   margin: auto;
@@ -11,14 +17,14 @@ main {
 }
 
 hr {
-  border: 1px solid var(--grey1);
+  border: 1px solid var(--cp-crust);
 }
 
 p {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 400;
-  color: var(--fg);
+  color: var(--cp-text);
 }
 
 img {
@@ -28,12 +34,12 @@ img {
 
 a, a:visited {
   text-decoration: none;
-  color: var(--blue);
+  color: var(--cp-link1);
   transition: 0.2s;
 }
 
 a:hover {
-  color: var(--blue2);
+  color: var(--cp-link3);
   text-decoration: none;
 }
 
@@ -43,6 +49,7 @@ a:hover {
     font-style: normal;
     font-size: 24px;
     letter-spacing: 0.2rem;
+    color: var(--cp-text);
 }
 
 h2 {
@@ -50,6 +57,7 @@ h2 {
   font-weight: 500;
   font-style: normal;
   font-size: 24px;
+  color: var(--cp-text);
 }
 
 h3 {
@@ -57,11 +65,12 @@ h3 {
   font-weight: 500;
   font-style: normal;
   font-size: 20px;
+  color: var(--cp-text);
 }
 
 h4 {
-  color: gray;
-  font-family: "Noto Serif", sans-serif;
+  color: var(--cp-subtle);
+  font-family: "Noto Serif", serif;
   font-weight: 300;
   font-size: 16px;
 }
@@ -82,5 +91,5 @@ h4 {
   font-weight: 400;
   font-size: 16px;
   font-style: italic;
-  color: var(--blue); 
+  color: var(--cp-subtle); 
 }

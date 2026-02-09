@@ -4,7 +4,7 @@ Suunnittelutoimisto Vinkkeli, Tmi
 
 olli (at) vinkkeliark.fi
 
-Y-tunnus: 
+Y-tunnus: 3192928-5
 
 ## CV, Olli Laine
 

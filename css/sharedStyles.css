@@ -7,4 +7,15 @@
     --aurora: #b48ead;
     --grey1: #D8DEE9;
     --grey2: #4C566A;
+
+    --cp-bg-pane: #eff1f5;
+    --cp-overlay0: #6c6f85; 
+    --cp-text: #4c4f69;
+    --cp-subtext0: #6c6f85;
+    --cp-subtext1: #5c5f77;
+    --cp-subtle: #8c8fa1;
+    --cp-link1: #1e66f5;
+    --cp-link2: #7287fd;
+    --cp-link3: #ea76cb;
+    --cp-crust: #dce0e8;
 }
