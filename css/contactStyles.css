@@ -4,30 +4,6 @@ body {
   background-color: var(--cp-bg-pane);
 }
 
-hr {
-    border: 1px solid var(--cp-crust);
-}
-
-a, a:visited {
-  text-decoration: none;
-  color: var(--cp-link1);
-  transition: 0.2s;
-}
-
-a:hover {
-  color: var(--cp-link3);
-  text-decoration: none;
-}
-
-h1 {
-    font-family: "Zalando Sans Expanded", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 40px;
-    letter-spacing: 0.2rem;
-    color: var(--cp-text);
-}
-
 p, li {
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
@@ -64,7 +40,7 @@ h4 {
     margin: auto;
     display: flex;
     flex-direction: column;
-    padding: 25px 50px;
+    padding: 0px 50px;
 }
 
 main {

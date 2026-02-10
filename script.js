@@ -1,6 +1,6 @@
 import { initHeader } from "./modules/header.js";
 
-initHeader();
+initHeader("index");
 
 const grid = document.getElementById("projekti-grid");
 
