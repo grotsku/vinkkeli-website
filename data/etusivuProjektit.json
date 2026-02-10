@@ -2,31 +2,19 @@
     {
         "title": "Songlines",
         "link": "projektit.html?id=songlines",
-        "image": "img/nathan-mewett1.jpg",
+        "image": "img/sl2.webp",
         "description": "Museokeskus Vapriikki, 2024"
     },
     {
         "title": "Muinais-DNA",
-	"link": "projektit.html?id=muinaisdna",
-        "image": "img/testi.jpg",
+	    "link": "projektit.html?id=muinaisdna",
+        "image": "img/dna3.webp",
         "description": "Museokeskus Vapriikki, 2025-2028"
     },
     {
         "title": "John Howen taidetta",
-        "image": "img/testi.jpg",
-	"link": "projektit.html?id=john-howe",
+        "image": "img/hw1.webp",
+	    "link": "projektit.html?id=john-howe",
         "description": "Tampere-talo, 2024"
-    },
-    {
-        "title": "Aboa Vetuksen perusnäyttelyn uudistus",
-        "image": "img/testi.jpg",
-	"link": "projektit.html?id=aboa-vetus",
-        "description": "Aboa Vetus, 202x"
-    },
-    {
-        "title": "Hannon aseman uudistus",
-        "image": "img/testi.jpg",
-	"link": "projektit.html?id=hanno",
-        "description": "Hanno, Japani, 201x-"
     }
 ]

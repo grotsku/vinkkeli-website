@@ -1,3 +1,7 @@
+import { initHeader } from "./modules/header.js";
+
+initHeader();
+
 const grid = document.getElementById("projekti-grid");
 
 fetch("./data/etusivuProjektit.json")

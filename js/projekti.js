@@ -1,9 +1,10 @@
 import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+import { initHeader } from "../modules/header.js";
+
+
 
 const params = new URLSearchParams(window.location.search);
 const projectId = params.get("id");
-console.log(params);
-console.log(projectId);
 
 // projektisivut.json sisältää projektikohtaiset tiedot. projects.json sisältää kaikki projektit listana, jota käytetään index.html-sivulla.
 fetch("data/projektisivut.json")

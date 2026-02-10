@@ -4,6 +4,6 @@ Aboa vetuksen perusnäyttelyn uudistuksessa uudistettiin olemassa olevaa pysyvä
 
 **Puusepäntyöt:** [KenoPuu](https://www.kenopuu.fi/)
 
-**Näyttelyrakentaminen:** Aboa Vetus
+**Näyttelyrakentaminen:** [Aboa Vetus](https://avan.fi/en)
 
 **Valaistussuunnittelu:** [TAKT Oy, Jaakko Kiukkanen](www.taktark.fi)

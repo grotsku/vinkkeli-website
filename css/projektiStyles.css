@@ -1,7 +1,7 @@
 @import url(./sharedStyles.css);
 
 body {
-    background-color: white;
+    background-color: var(--cp-bg-pane);
 }
 
 img {
@@ -18,14 +18,14 @@ img {
 }
 
 hr {
-    border: 1px solid var(--grey1);
+    border: 1px solid var(--cp-crust);
 }
 
 #project-year {
     font-family: "Montserrat", sans-serif;
     font-size: 16px;
     font-weight: 400;
-    color: var(--blue);
+    color: var(--cp-subtle);
     margin: 0px 0px;
 }
 
@@ -33,12 +33,12 @@ main > p {
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 400;
-    color: var(--fg);
+    color: var(--cp-text);
 }
 
 main > a, main > a:visited {
     transition: 0.2s;
-    color: var(--blue);
+    color: var(--cp-link1);
 }
 
 header > a, header > a:visited {
@@ -46,15 +46,15 @@ header > a, header > a:visited {
     font-family: "Noto Serif", serif;
     font-size: 14px;
     transition: 0.2s;
-    color: var(--grey2);
+    color: var(--cp-link1);
 }
 
 main > a:hover {
-    color: var(--blue2);
+    color: var(--cp-link3);
 }
 
 header > a:hover {
-    color: var(--blue2);
+    color: var(--cp-link3);
 }
 
 h1 {
@@ -64,7 +64,7 @@ h1 {
     font-size: 40px;
     letter-spacing: 0.1rem;
     margin: 10px 0px;
-    color: var(--fg);
+    color: var(--cp-text);
 }
 
 #project-images {
