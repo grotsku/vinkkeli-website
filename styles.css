@@ -16,10 +16,6 @@ main {
   padding: 0px 25px;
 }
 
-hr {
-  border: 1px solid var(--cp-crust);
-}
-
 p {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
@@ -30,26 +26,6 @@ p {
 img {
   max-width: 100%;
   height: auto;
-}
-
-a, a:visited {
-  text-decoration: none;
-  color: var(--cp-link1);
-  transition: 0.2s;
-}
-
-a:hover {
-  color: var(--cp-link3);
-  text-decoration: none;
-}
-
-.header-upper {
-    font-family: "Zalando Sans Expanded", sans-serif;
-    font-weight: 500;
-    font-style: normal;
-    font-size: 24px;
-    letter-spacing: 0.2rem;
-    color: var(--cp-text);
 }
 
 h2 {

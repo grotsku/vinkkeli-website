@@ -19,3 +19,52 @@
     --cp-link3: #ea76cb;
     --cp-crust: #dce0e8;
 }
+
+hr {
+  border: 1px solid var(--cp-crust);
+}
+
+a {
+    text-decoration: none;
+    color: var(--cp-link1);
+    transition: 0.2s;
+}
+
+a:visited {
+    color: var(--cp-link1);
+}
+
+a:hover {
+    color: var(--cp-link3);
+}
+
+.header-upper {
+    font-family: "Zalando Sans Expanded", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: 0.2rem;
+    color: var(--cp-text);
+}
+
+.header-upper h1 {
+    margin-bottom: 10px;
+}
+
+#header a {
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--cp-text);
+}
+
+#header a:hover {
+    color: var(--cp-link3);
+}
+
+.header-lower {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 10px;
+}
