@@ -12,6 +12,12 @@
         "description": "Museokeskus Vapriikki, 2025-2028"
     },
     {
+        "title": "Kivigalleria",
+	    "link": "projektit.html?id=kivigalleria",
+        "image": "img/kg1.webp",
+        "description": "Museokeskus Vapriikki, 2025-2027"
+    },
+    {
         "title": "John Howen taidetta",
         "image": "img/hw1.webp",
 	    "link": "projektit.html?id=john-howe",
@@ -22,5 +28,11 @@
         "image": "img/hn1.webp",
 	    "link": "projektit.html?id=hanno",
         "description": "Hanno, Japani, 2018"
+    },
+    {
+        "title": "Suovillat",
+        "image": "img/sw1.webp",
+	"link": "projektit.html?id=suovillat",
+        "description": "Hervanta, Tampere, 2020"
     }
 ]

@@ -15,6 +15,14 @@
     "images": ["dna1.webp","dna2.webp","dna3.webp","dna4.webp"],
     "kuvacredit": "Saarni Säilynoja / Vapriikki"
   },
+  "kivigalleria": {
+    "title": "Kivigalleria",
+    "year": "2025-2027",
+    "venue": "Museokeskus Vapriikki",
+    "contentLink": "../content/kivigalleriaTeksti.md",
+    "images": ["kg1.webp","kg2.webp","kg3.webp","kg4.webp"],
+    "kuvacredit": "Saarni Säilynoja / Vapriikki"
+  },
   "john-howe": {
     "title": "John Howen taidetta",
     "year": "2024",
@@ -38,5 +46,13 @@
     "contentLink": "../content/hannoTeksti.md",
     "images": ["hn1.webp","hn2.webp","hn3.webp","hn4.webp","hn5.webp","hn6.webp"],
     "kuvacredit": "Olli Laine"
+  },
+  "suovillat": {
+    "title": "Suovillat",
+    "year": "2020-",
+    "venue": "Hervanta, Tampere",
+    "contentLink": "../content/suovillatTeksti.md",
+    "images": ["hn1.webp","hn2.webp","hn3.webp","hn4.webp","hn5.webp","hn6.webp"],
+    "kuvacredit": "Atso Airola ja Olli Laine"
   }
 }
