@@ -14,7 +14,6 @@ img {
     margin: auto;
     display: flex;
     flex-direction: column;
-    padding: 25px 50px;
 }
 
 hr {
@@ -61,9 +60,7 @@ h1 {
     font-family: "Zalando Sans Expanded", sans-serif;
     font-weight: 500;
     font-style: normal;
-    font-size: 40px;
-    letter-spacing: 0.1rem;
-    margin: 10px 0px;
+    font-size: 24px;
     color: var(--cp-text);
 }
 

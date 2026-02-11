@@ -64,10 +64,18 @@ a:hover {
     color: var(--cp-link3);
 }
 
+#header p {
+    margin: 0;
+}
+
 .header-menu {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
+}
+
+.content {
+    padding: 10px 50px;
 }
