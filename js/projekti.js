@@ -2,7 +2,6 @@ import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
 import { initHeader } from "../modules/header.js";
 
 
-
 const params = new URLSearchParams(window.location.search);
 const projectId = params.get("id");
 
@@ -17,9 +16,7 @@ fetch("data/projektisivut.json")
     const markdown = await response.text();
     const mdContent = marked.parse(markdown);
 
-    document.getElementById("page-title").textContent = project.title;
-    document.getElementById("project-title").textContent = project.title;
-    document.getElementById("project-year").textContent = project.year;
+    document.getElementById("project-title").innerHTML = project.title;
     document.getElementById("project-description").innerHTML = mdContent;
 
     const imagesContainer = document.getElementById("project-images");
@@ -28,4 +25,7 @@ fetch("data/projektisivut.json")
       img.src = `img/${src}`;
       imagesContainer.appendChild(img);
     });
+
+    initHeader("project", project.title);
   });
+

@@ -20,8 +20,13 @@
     --cp-crust: #dce0e8;
 }
 
+#header {
+	display: flex;
+	justify-content: space-between;
+}
+
 hr {
-  border: 1px solid var(--cp-crust);
+	border: 1px solid var(--cp-crust);
 }
 
 a {
@@ -38,23 +43,20 @@ a:hover {
     color: var(--cp-link3);
 }
 
-.header-upper {
+.header-logo h1 {
+    margin: 0;
     font-family: "Zalando Sans Expanded", sans-serif;
-    font-weight: 500;
+    font-weight: 700;
     font-style: normal;
     font-size: 24px;
     letter-spacing: 0.2rem;
     color: var(--cp-text);
 }
 
-.header-upper h1 {
-    margin-bottom: 10px;
-}
-
 #header a {
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   color: var(--cp-text);
 }
 
@@ -62,9 +64,18 @@ a:hover {
     color: var(--cp-link3);
 }
 
-.header-lower {
+#header p {
+    margin: 0;
+}
+
+.header-menu {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
+    align-items: center;
     gap: 10px;
+}
+
+.content {
+    padding: 10px 50px;
 }

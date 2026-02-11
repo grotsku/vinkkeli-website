@@ -16,5 +16,11 @@
         "image": "img/hw1.webp",
 	    "link": "projektit.html?id=john-howe",
         "description": "Tampere-talo, 2024"
+    },
+    {
+        "title": "Hannon aseman uudistus",
+        "image": "img/hn1.webp",
+	    "link": "projektit.html?id=hanno",
+        "description": "Hanno, Japani, 2018"
     }
 ]

@@ -1,22 +1,35 @@
-export function initHeader() {
-    console.log("initHeader function started");
+export function initHeader(pageType, projectName) {
     const headerDiv = document.getElementById("header");
-    console.log("headerDiv found: ", headerDiv);
     if (headerDiv) {
-        // create upper header
-        const upperHeaderDiv = document.createElement("div");
-        upperHeaderDiv.innerHTML = "<h1>Vinkkeli</h1>";
-        upperHeaderDiv.setAttribute("class", "header-upper");
-        headerDiv.appendChild(upperHeaderDiv); 
+        // create logo div 
+        const logoHeaderDiv = document.createElement("div");
+        logoHeaderDiv.innerHTML = "<h1>Vinkkeli</h1>";
+        logoHeaderDiv.setAttribute("class", "header-logo");
+        headerDiv.appendChild(logoHeaderDiv); 
 
-        // create lower header
-        const lowerHeaderDiv = document.createElement("div");
-        lowerHeaderDiv.innerHTML = '<a href="index.html">Etusivu</a><a href="contact.html">Yrityksestä</a>';
-        lowerHeaderDiv.setAttribute("class", "header-lower");
-        headerDiv.append(lowerHeaderDiv);
+       /* 
+        // create project title
+        if (pageType === "project") {
+            const projectTitleDiv = document.createElement("div");
+            projectTitleDiv.innerHTML = `<h1>${projectName}</h1>`;
+            projectTitleDiv.setAttribute("class", "header-title");
+            headerDiv.append(projectTitleDiv);
+        }
+        */
 
-        // add line break
-        const hr = document.createElement("hr");
-        headerDiv.append(hr);
+        // create menu div
+        const menuHeaderDiv = document.createElement("div");
+
+        if (pageType === "index") {
+            menuHeaderDiv.innerHTML = '<a href="contact.html">Yrityksestä</a>';
+	    } else if (pageType === "contact") {
+            menuHeaderDiv.innerHTML = '<a href="index.html">Etusivu</a>';
+        } else if (pageType === "project") {
+            menuHeaderDiv.innerHTML = '<a href="index.html">Etusivu</a><p>/</p><a href="contact.html">Yrityksestä</a>';
+        }
+        menuHeaderDiv.setAttribute("class", "header-menu");
+        headerDiv.append(menuHeaderDiv);
+
+
     }
 }

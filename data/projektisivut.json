@@ -25,10 +25,18 @@
   },
   "aboa-vetus": {
     "title": "Aboa Vetuksen perusnäyttelyn uudistus",
-    "year": "202x-",
+    "year": "2024-",
     "venue": "Aboa Vetus",
     "contentLink": "../content/aboavetusTeksti.md",
-    "images": ["aboavetus.webm"]
+    "images": ["aboavetus.webm"],
+    "kuvacredit": "Olli Laine"
+  },
+  "hanno": {
+    "title": "Hannon aseman uudistus",
+    "year": "2018-",
+    "venue": "Hanno, Japani",
+    "contentLink": "../content/hannoTeksti.md",
+    "images": ["hn1.webp","hn2.webp","hn3.webp","hn4.webp","hn5.webp","hn6.webp"],
+    "kuvacredit": "Olli Laine"
   }
 }
-

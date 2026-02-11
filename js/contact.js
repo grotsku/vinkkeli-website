@@ -1,4 +1,7 @@
 import { marked } from "https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js";
+import { initHeader } from "../modules/header.js";
+
+initHeader("contact");
 
 const cvDiv = document.getElementById("cv");
 const bioDiv = document.getElementById("bio");
