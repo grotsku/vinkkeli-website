@@ -13,7 +13,7 @@ fetch("./data/etusivuProjektit.json")
 
         tile.innerHTML = `
             <h3><a href="${project.link}">${project.title}</a></h3>
-            <img src="${project.image}" alt="${project.title}">
+            <a href="${project.link}"><img src="${project.image}" alt="${project.title}"></a>
             <p>${project.description}</p>
         `
         grid.appendChild(tile);

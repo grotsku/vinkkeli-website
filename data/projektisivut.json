@@ -54,5 +54,13 @@
     "contentLink": "../content/suovillatTeksti.md",
     "images": ["hn1.webp","hn2.webp","hn3.webp","hn4.webp","hn5.webp","hn6.webp"],
     "kuvacredit": "Atso Airola ja Olli Laine"
+  },
+  "kiven-voima": {
+    "title": "Kiven voima",
+    "year": "2024",
+    "venue": "Museokeskus Vapriikki",
+    "contentLink": "../content/kivenvoimaTeksti.md",
+    "images": ["hn1.webp","hn2.webp","hn3.webp","hn4.webp","hn5.webp","hn6.webp"],
+    "kuvacredit": ""
   }
 }

@@ -24,6 +24,12 @@
         "description": "Tampere-talo, 2024"
     },
     {
+        "title": "Kiven voima",
+        "image": "img/kv1.webp",
+	    "link": "projektit.html?id=kiven-voima",
+        "description": "Vapriikki, 2024"
+    },
+    {
         "title": "Hannon aseman uudistus",
         "image": "img/hn1.webp",
 	    "link": "projektit.html?id=hanno",
