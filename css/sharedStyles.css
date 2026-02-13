@@ -31,12 +31,12 @@ hr {
 
 a {
     text-decoration: none;
-    color: var(--cp-link1);
+    color: var(--cp-text);
     transition: 0.2s;
 }
 
 a:visited {
-    color: var(--cp-link1);
+    color: var(--cp-text);
 }
 
 a:hover {
