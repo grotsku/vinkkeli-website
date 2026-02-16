@@ -1,11 +1,3 @@
-## Yhteystiedot
-
-Suunnittelutoimisto Vinkkeli, Tmi
-
-olli (at) vinkkeliark.fi
-
-Y-tunnus: 3192928-5
-
 ## CV, Olli Laine
 
 **Koulutus:** Arkkitehti, Tampereen yliopisto, _2022_
@@ -22,3 +14,17 @@ Y-tunnus: 3192928-5
 - **Art of Pop**, 2021, Helsingin Messukeskus
 - **Ostia, portti Roomaan**, 2019-2021, Museokeskus Vapriikki
 - **Tampere-talon aulan uudistuksia**, 2019, Tampere-talo
+
+### Kilpailut
+
+- **Ratikan taide, Suovillat**, 2021, ensimmäinen sija
+- **Hannon aseman uudistus, Sykli**, 2018, ensimmäinen sija
+
+### Näyttelyt ja muu taiteellinen työ
+
+- **Kuuletko Mustarindan?**, 2024, Mustarinda, Hyrynsalmi
+- **Olennot 1**, 2024, Asbestos Galleria, Helsinki
+- **Listening to Aukštumala-äänityöpaja**, 2023, Kintai, Liettua
+- **NOISE & SILENCE - listening as a method-äänityöpaja**, 2022, Bergen, Norja
+- **Suovillat**, 2022, Tampere
+- **Sykli**, 2018, Hanno, Japani

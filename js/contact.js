@@ -3,7 +3,7 @@ import { initHeader } from "../modules/header.js";
 
 initHeader("contact");
 
-const cvDiv = document.getElementById("cv");
+const cvDiv = document.getElementById("cvText");
 const bioDiv = document.getElementById("bio");
 
 // Hae bio-sisältö markdown-tiedostosta
