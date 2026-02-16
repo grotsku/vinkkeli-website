@@ -14,7 +14,7 @@
     {
         "title": "Kivigalleria",
 	    "link": "projektit.html?id=kivigalleria",
-        "image": "img/kg1.webp",
+        "image": "img/kg2.webp",
         "description": "Museokeskus Vapriikki, 2025-2027"
     },
     {
@@ -37,8 +37,8 @@
     },
     {
         "title": "Suovillat",
-        "image": "img/sw1.webp",
-	"link": "projektit.html?id=suovillat",
+        "image": "img/sv2.webp",
+	    "link": "projektit.html?id=suovillat",
         "description": "Hervanta, Tampere, 2020"
     }
 ]
