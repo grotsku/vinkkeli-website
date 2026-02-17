@@ -1,6 +1,6 @@
 Teos on tehty yhteistyössä taiteilija ja arkkitehti [Atso Airolan](www.atsoairola.fi) kanssa.
 
-Suovillat on valotaideteos Tampereella, Hervannan kampuksen ratikkapysäkillä. Teos muodostuu viidestä suovillaa muistuttavasta valaisimesta. Muotoon on haettu vaikutteita aluetta ympäröivien suoalueidin kasvillisuudesta. Pimeään aikaan teos reagoi valon voimakkuuden muutoksilla ratikan liikkeisiin.
+Suovillat on valotaideteos Tampereella, Hervannan kampuksen ratikkapysäkillä. Teos muodostuu viidestä suovillaa muistuttavasta valaisimesta. Muotoon on haettu vaikutteita aluetta ympäröivien suoalueiden kasvillisuudesta. Pimeään aikaan teos reagoi valon voimakkuuden muutoksilla ratikan liikkeisiin.
 
 Suovilla-teos voitti ensimmäisen sijan Tampereen ratikan järjestämässä teoskilpailussa vuonna 2020. Teos on ollut paikallaan tammikuusta 2022 asti.
 
