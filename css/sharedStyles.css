@@ -21,6 +21,7 @@
 }
 
 #header {
+    grid-area: header;
 	display: flex;
 	justify-content: space-between;
 }
@@ -74,8 +75,4 @@ a:hover {
     justify-content: flex-start;
     align-items: center;
     gap: 10px;
-}
-
-.content {
-    padding: 10px 50px;
 }
