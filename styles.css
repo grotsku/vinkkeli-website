@@ -10,7 +10,7 @@ body {
 
 .grid-container {
   display: grid;
-  grid-template-areas: 
+  grid-template-areas:
   "header"
   "projects";
   max-width: 1000px;
@@ -38,7 +38,7 @@ img {
 }
 
 h2 {
-  font-family: "Montserrat", sans-serif;  
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   font-style: normal;
   font-size: 24px;
@@ -77,7 +77,7 @@ h4 {
   font-weight: 400;
   font-size: 16px;
   font-style: italic;
-  color: var(--cp-subtle); 
+  color: var(--cp-subtle);
 }
 
 @media (max-width: 600px) {
