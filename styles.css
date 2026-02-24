@@ -79,10 +79,7 @@ h4 {
   font-style: italic;
   color: var(--cp-subtle); 
 }
-<<<<<<< HEAD
-=======
 
 @media (max-width: 600px) {
   #projekti-grid {grid-template-columns: 1fr;}
 }
->>>>>>> prod
