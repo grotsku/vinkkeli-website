@@ -1,19 +1,31 @@
 @import url(./sharedStyles.css);
 
+* {
+  box-sizing: border-box;
+}
+
 body {
     background-color: var(--cp-bg-pane);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+  "header"
+  "text"
+  "images";
+  max-width: 1000px;
+  margin: auto;
+  padding: 0px 25px;
+}
+
+.project-text {
+    grid-area: text;
 }
 
 img {
     max-width: 100%;
     height: auto;
-}
-
-.content {
-    max-width: 1000px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
 }
 
 hr {
@@ -28,32 +40,11 @@ hr {
     margin: 0px 0px;
 }
 
-main > p {
+main p {
     font-family: "Montserrat", sans-serif;
     font-size: 17px;
     font-weight: 400;
     color: var(--cp-text);
-}
-
-main > a, main > a:visited {
-    transition: 0.2s;
-    color: var(--cp-link1);
-}
-
-header > a, header > a:visited {
-    text-decoration: none;
-    font-family: "Noto Serif", serif;
-    font-size: 14px;
-    transition: 0.2s;
-    color: var(--cp-link1);
-}
-
-main > a:hover {
-    color: var(--cp-link3);
-}
-
-header > a:hover {
-    color: var(--cp-link3);
 }
 
 h1 {
@@ -65,8 +56,13 @@ h1 {
 }
 
 #project-images {
+    grid-area: images;
     margin-top: 40px;
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 20px;
+}
+
+@media (max-width: 600px) {
+  #project-images {grid-template-columns: 1fr;}
 }

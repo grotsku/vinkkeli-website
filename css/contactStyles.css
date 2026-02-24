@@ -1,7 +1,25 @@
 @import url(./sharedStyles.css);
 
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: var(--cp-bg-pane);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-areas: 
+  "header"
+  "content";
+  max-width: 1000px;
+  margin: auto;
+  padding: 0px 25px;
+}
+
+main {
+  grid-area: content;
 }
 
 p, li {
@@ -35,24 +53,33 @@ h4 {
   color: var(--cp-text);
 }
 
-.content {
-    max-width: 1000px;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
-    padding: 0px 50px;
-}
-
 main {
     display: grid;
+    grid-template-areas: "cv about";
     grid-template-columns: 1fr 1fr;
     gap: 20px;
 }
 
+#cv {
+  grid-area: cv;
+}
+
+#about {
+  grid-area: about;
+}
 
 img {
   border-radius: 5px;
   margin-top: 20px;
   max-width: 250px;
   height: auto;
+}
+
+@media (max-width: 600px) {
+  main {
+    grid-template-areas: 
+    "about"
+    "cv";
+    grid-template-columns: 1fr;
+  }
 }
