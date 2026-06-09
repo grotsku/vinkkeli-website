@@ -1,27 +1,33 @@
 [
     {
+        "title": "Jalkapallon MM-kisat kautta aikojen",
+        "link": "projektit.html?id=jalkapallon-mm",
+        "image": "img/mm1.webp",
+        "description": "Museokeskus Vapriikki, 2026"
+    },
+    {
+        "title": "Muinais-DNA",
+	    "link": "projektit.html?id=muinaisdna",
+        "image": "img/dna3.webp",
+        "description": "Museokeskus Vapriikki, 2025"
+    },
+    {
+        "title": "Kivigalleria",
+	    "link": "projektit.html?id=kivigalleria",
+        "image": "img/kg2.webp",
+        "description": "Museokeskus Vapriikki, 2025"
+    },
+    {
         "title": "Songlines",
         "link": "projektit.html?id=songlines",
         "image": "img/sl2.webp",
         "description": "Museokeskus Vapriikki, 2024"
     },
     {
-        "title": "Muinais-DNA",
-	    "link": "projektit.html?id=muinaisdna",
-        "image": "img/dna3.webp",
-        "description": "Museokeskus Vapriikki, 2025-2028"
-    },
-    {
-        "title": "Kivigalleria",
-	    "link": "projektit.html?id=kivigalleria",
-        "image": "img/kg2.webp",
-        "description": "Museokeskus Vapriikki, 2025-2027"
-    },
-    {
         "title": "Aboa Vetuksen perusnäyttelyn uudistus",
 	    "link": "projektit.html?id=aboa-vetus",
         "image": "img/av1.webp",
-        "description": "Aboa Vetus, 2024-"
+        "description": "Aboa Vetus, 2024"
     },
     {
         "title": "John Howen taidetta",
