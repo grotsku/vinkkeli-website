@@ -62,5 +62,13 @@
     "contentLink": "../content/kivenvoimaTeksti.md",
     "images": ["kv1.webp","kv2.webp","kv3.webp","kv4.webp"],
     "kuvacredit": "Saarni Säilynoja / Vapriikki"
+  },
+  "jalkapallon-mm": {
+    "title": "Jalkapallon MM-kisat kautta aikojen",
+    "year": "2026",
+    "venue": "Museokeskus Vapriikki",
+    "contentLink": "../content/mm-kisatTeksti.md",
+    "images": ["mm1.webp"],
+    "kuvacredit":"Saarni Säilynoja / Vapriikki"
   }
 }
