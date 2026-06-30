@@ -1,5 +1,11 @@
 [
     {
+        "title": "Game On",
+        "link": "projektit.html?id=gameon",
+        "image": "img/go1.webp",
+        "description": "Tampere-talo, 2026"
+    },
+    {
         "title": "Jalkapallon MM-kisat kautta aikojen",
         "link": "projektit.html?id=jalkapallon-mm",
         "image": "img/mm1.webp",
