@@ -1,4 +1,12 @@
 {
+  "gameon": {
+    "title": "Game On",
+    "year": "2026",
+    "venue": "Tampere-talo",
+    "contentLink": "../content/gameOnTeksti.md",
+    "images": ["go1.webp","go2.webp"],
+    "kuvacredit": "Olli Laine"
+  },
   "songlines": {
     "title": "Songlines",
     "year": "2024",
